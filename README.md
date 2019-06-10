@@ -1,9 +1,9 @@
 # Holidaze_Exsam
-this was an app that was made in the context of my last exam, the ap it self is a tourist website where you can find local hotels or places in the contry of your choosing. The exsam was delivered on the 10 of juni 2019. 
-the app is build on vue the app head some PhP backend components that where used to send data to the jason file and under development used servers app called XAMPP. 
+This was an app that was made in the context of my last exam, the app it self is a tourist website where you can find local hotels or places in the contry of your choosing. The exsam was delivered on the 10 of juni 2019. 
+The app is build on vue the app have some PhP back-end components that send data to the jason file. 
 
 # Start the applications 
-1. First download the app from github
+1. First download the Holidaze.zip and the Server.zip from github
 2. install the necessary elements to get vue running, 
   - Vue Guide :https://cli.vuejs.org/
   - Vue installing by CLI : https://cli.vuejs.org/guide/installation.html
