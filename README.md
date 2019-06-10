@@ -3,7 +3,7 @@ This was an app that was made in the context of my last exam. The app itself is 
 The app is build in vue, the app have some PhP backend components that where used to send data to the jason file and under development used a servers app called XAMPP. 
 
 # Start the applications 
-1. First download the app from github
+1. First download the Holidaze.zip and the server.zip from github
 2. install the necessary elements to get vue running, 
   - Vue Guide :https://cli.vuejs.org/
   - Vue installing by CLI : https://cli.vuejs.org/guide/installation.html
