@@ -1,4 +1,4 @@
-# Holidaze_Exsam
+# Holidaze_Exam
 This was an app that was made in the context of my last exam. The app itself is a tourist website where you can find local hotels or places in the contry of your choosing. The exsam was delivered on the 10th of june 2019. 
 The app is build in vue, the app have some PhP backend components that where used to send data to the jason file and under development used a servers app called XAMPP. 
 
