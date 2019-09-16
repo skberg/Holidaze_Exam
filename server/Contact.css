@@ -1,0 +1,117 @@
+
+
+
+
+.Card {
+    background-color: #FAFAFA;
+    border-radius: 25px 25px 25px 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1000px;
+  
+      
+       box-shadow:  0px 0px 5px 1px rgba(0, 0, 0, 0.317);
+      }
+     
+     
+
+
+
+
+
+      .Card-heding {
+        text-align: center;
+        padding: 15px;
+        font-family: 'PT Sans', sans-serif;
+        font-weight: bold;
+    
+        border-radius: 10px;
+       
+    
+    }
+
+    .Card-img{
+        display: block;
+        margin: 0px auto;
+        text-align: center;
+        width: 200px;
+    }
+    .card-test-holder{
+        
+        
+        padding: 50px;
+       width: 70%;
+        margin: 25px auto;
+        border-radius: 21px;
+   
+    }
+
+
+
+
+    .card-text{
+        background-color: #79ACD9;
+        padding: 25px;
+        width: 60%;
+        margin: auto;
+        border-radius: 10px 10px 0px 0px;
+        margin-bottom: -10px;
+        font-weight: bold;
+        color: #FAFAFA;
+        z-index: -1;
+        border: 5px solid #323640;
+        font-family: 'PT Sans', sans-serif;
+        
+    }
+
+
+    .card-contet-2{
+        padding: 55px;
+       
+        width: 100%;
+        background-color: #323640;
+        border-radius: 10px;
+        border: none;
+    
+    }
+
+    .card-contet-2:active {
+        transform: translateY(1px);
+      
+      }
+
+    .left-button{
+        float: left;
+        width: 55px;
+       
+     
+    }
+
+    .text{
+        margin-top: 25px;
+        margin-right: 5px;
+        text-align: right;
+        float: right;
+        font-size: 1.8em;
+        font-family: 'PT Sans', sans-serif;
+        font-weight: bold;
+        color: #FAFAFA;
+       
+        width: 65%;
+   
+        
+    }
+    .text:after {
+        content: '';
+        display: block;
+        width: 0;
+        height: 2px;
+        background-color:rgb(130, 191, 191);
+        transition: width .3s;
+    } 
+    .text:hover::after {
+        width: 100%;
+        /*  transition: width .3s; */
+    }
+    
